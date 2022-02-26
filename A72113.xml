@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles agreed upon and granted by his Excelencie, and the deputies of the high and mighty Lords, the States Generall of the Vnited Prouinces vnto the clergie, magistrates, burgers, and inhabitants of the towne of Boisleduke, or the Busse.</title>
+            <title>Treaties, etc. 'S Hertogenbosh, 1629-09-14</title>
+            <author>Frederick Henry, Prince of Orange, 1584-1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1629</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72113</idno>
+            <idno type="STC">STC 11363.5</idno>
+            <idno type="STC">ESTC S125393</idno>
+            <idno type="EEBO-CITATION">99898252</idno>
+            <idno type="PROQUEST">99898252</idno>
+            <idno type="VID">173566</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173566)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2064:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles agreed upon and granted by his Excelencie, and the deputies of the high and mighty Lords, the States Generall of the Vnited Prouinces vnto the clergie, magistrates, burgers, and inhabitants of the towne of Boisleduke, or the Busse.</title>
+                  <title>Treaties, etc. 'S Hertogenbosh, 1629-09-14</title>
+                  <author>Frederick Henry, Prince of Orange, 1584-1647.</author>
+                  <author>'s-Hertogenbosch (Netherlands). Treaties, etc. Frederick Henry, Prince of Orange, 1629-09-13.</author>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed [by G. Purslowe] for Nicholas Bourne, and are to bee sold at his shop, at the south entrance of the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1629.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: D⁴ E² .</note>
+                  <note>Collates D4 E2, with 26 numbered articles dated 14 Sept. F is found separately, but this was apparently originally issued with, and another copy is found with, Newsbooks 203A. -- STC.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  History --  Wars of Independence, 1556-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173566:1"/>
+            <!-- PDF PAGE 85 -->
+            <pb facs="tcp:173566:1"/>
+            <!-- PDF PAGE 85 -->
+            <p>ARTICLES AGREED VPON AND GRANTED BY His Excelencie, and the Deputies <hi>of the high and mighty Lords, the</hi> States Generall of the Vnited Prouin<g ref="char:EOLhyphen"/>ces, vnto the Clergie, Magiſtrates, Burgers, and inhabitants of the Towne of <hi>Bois<g ref="char:EOLhyphen"/>leduke,</hi> or the <hi>Buſſe.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+               <q>NOLI ALTUM SAPERE</q>
+            </figure>
+            <p>LONDON, Printed for <hi>Nicholas Bourne,</hi> and are to bee ſold at his Shop, at the South entrance of the Royall Exchange. 1629.</p>
+         </div>
+      </front>
+      <body>
+         <div type="articles">
+            <pb facs="tcp:173566:2"/>
+            <!-- PDF PAGE 86 -->
+            <pb n="1" facs="tcp:173566:2"/>
+            <!-- PDF PAGE 86 -->
+            <head>
+               <hi>ARTICLES, Agreed vpon and granted by his Excel<g ref="char:EOLhyphen"/>lencie, and the Deputies of the high and mighty</hi> Lords, the States Generall of the Vnited Prouinces, vnto the Clergie, Magiſtrates, Burgers, and Inha<g ref="char:EOLhyphen"/>bitants of the Towne of <hi>Boisleduke,</hi> or the <hi>Buſſe.</hi>
+            </head>
+            <p n="1">1. <seg rend="decorInit">F</seg>Irſt All offences, injuries, and all acts and deedes committed betwixt this Towne and thoſe of the Vnited Pro<g ref="char:EOLhyphen"/>uinces, both from the beginning of theſe troubles, and ciuill commotions or warres, as alſo during this preſent Siege, in what place, and in what ſort or manner ſoeuer, whether in generall or in particular, aſwell within as without, they are, and ſhall be and re<g ref="char:EOLhyphen"/>maine, pardoned, forgotten, and as neuer done; ſo that neuer any mention, moleſtation, action, or inquiſition by way or forme of Iuſtice, or otherwiſe, can be made or inſtituted, either againſt ſuch as are liuing, or againſt the Heyres of ſuch as are deceaſed, or their goods, re<g ref="char:EOLhyphen"/>ſpectiuely on both ſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es</p>
+            <p n="2">2. The Inhabitants of this Towne are to behaue them<g ref="char:EOLhyphen"/>ſelues according vnto the commandements Lawes and Proclamations of theſe Prouinces; enioying in the mean
+<pb n="2" facs="tcp:173566:3"/>
+               <!-- PDF PAGE 87 -->time the liberty of conſcience, as it is practiſed euery where. And all religious perſons and Churchmen are to be gone and withdraw themſelues out of this Town: But in the meane while they are to gouerne themſelues alſo according to the ſaid Lawes; and then they may carry away with them their moueables, Images, Pi<g ref="char:EOLhyphen"/>ctures, and all the Ornaments of their Churches.</p>
+            <p>The foreſaid Eccleſiaſticall or Church-perſons may enioy during their life, all their reuenues and fruites of their goods, lying in places where contribution is paid. But it is conceiued and to bee vnderſtood, that all the Church-goods are to belong vnto the high and mighty Lords, the States generall, that they may diſpoſe of them either to the good of the Towne, or otherwiſe.</p>
+            <p n="4">4. The Nunnes, and religious women may remaine in the Towne, during their life time, being to bee re<g ref="char:EOLhyphen"/>ſpectiuely nouriſhed by the goods of their Cloiſters: the reſt remaining wholly in the diſpoſition of the high and mighty Lords the States generall: and the ſaid Nuns ſhall be fitted with dwelling places, eyther in their Co<g ref="char:EOLhyphen"/>uents or houſes, or elſe-where.</p>
+            <p n="5">5. There is alſo granted, that all the inhabitants of this Towne, both Eccleſiaſticall and religious perſons, as alſo Seculars, and all ſuch as are gone away, and all o<g ref="char:EOLhyphen"/>thers, whatſoeuer they be, either in or without charges, or military adminiſtrations, or otherwiſe, of the King of <hi>Spaine,</hi> or of the States of <hi>Braband,</hi> or of this Towne, reſpectinely, are to haue free both their liues and goods, both in generall and in particular, inſomuch as this is not contrary to the former Article.</p>
+            <p n="6">6. This Towne, with the Burgers and inhabitants thereof, afore-mentioned, aſwell ſpirituall and ſecular, is and ſhall be receiued and uſed by the high and mighty Lords, the States generall of the Vnited Prouinces, and the Lord Prince of <hi>Orange,</hi> with all clemency and mild<g ref="char:EOLhyphen"/>neſſe, hereafter to liue in amity, friendſhip and concord
+<pb n="3" facs="tcp:173566:3"/>
+               <!-- PDF PAGE 87 -->with the other vnited Prouinces and Townes, trading and correſponding together, according to their ancient liberties, as it is conuenient.</p>
+            <p n="7">7. The ſaid high and mighty Lords the States gene<g ref="char:EOLhyphen"/>rall, and His Excellence are to vſe and exerciſe within the ſaid Towne and Maiorie, the ſame being annexed to the Towne, ſuch juriſdiction and right, as the Dukes and Dutcheſſes of <hi>Braband</hi> haue had there vntill this preſent time; and they are to vſe this Towne therein wholly, ſo as the other Townes and Cities of <hi>Braband</hi> are vſed.</p>
+            <p n="8">8. This Towne, and the Burgers and inhabitants thereof and of the liberties of the ſaid towne, are to keepe all their rights, cuſtomes, freedomes, liberties, exemptions, and all other priuiledges, aſwell in gene<g ref="char:EOLhyphen"/>rall as in particular, which from ancient time, and be<g ref="char:EOLhyphen"/>fore the beginning of this towne they haue enioyed, both by Sea and Land, within and without the towne, in <hi>Bra<g ref="char:EOLhyphen"/>band, Gelderland, Holland, Zealand,</hi> vpon the <hi>Rhine,</hi> and in other Prouinces, places and waters.</p>
+            <p n="9">9. The gouernment of the town, aſwell in the Courts of Iuſtice, as in affaires of Policy, is to remaine in the hands of the Magiſtrate, and of the three members of the towne reſpectiuely; and no body is to be preferred, promoted, or receiued vnto the ſame, vnleſſe he he born in the ſaid towne, or he that hath beene chriſtned there, or ſuch other perſons as the Lords States ſhall finde good and fit to naturalize and qualifie to that end: But with this condition, that at and for this time, the Go<g ref="char:EOLhyphen"/>uerment in Iuſtice and Policie, both of high and inferi<g ref="char:EOLhyphen"/>our Magiſtrates, Officers, Gouernours, and other mini<g ref="char:EOLhyphen"/>ſters, ſhall be conſtituted and eſtabliſhed by His Excel<g ref="char:EOLhyphen"/>lence, and the Deputies of the Lords the generall States.</p>
+            <p n="10">10. This towne is likewiſe to keepe and to retaine at her diſpoſition and adminiſtration, all the common and hereditary goods, rights and impoſitions, fiſhings,
+<pb n="4" facs="tcp:173566:4"/>
+               <!-- PDF PAGE 88 -->toles, Cuſtomes, taxes for merchandiſes and wares, and all other rights and reuenues heretofore belonging to the ſame in the ſame manner as the ſaid towne hath en<g ref="char:EOLhyphen"/>ioyed it, and had the diſpoſitiou and adminiſtration thereof vntill this time, as beeing ſo priuiledged and grounded by right: With this condition neuertheleſſe that the other members of the vnited Prouince doe re<g ref="char:EOLhyphen"/>ceiue thereby no preiudice.</p>
+            <p n="11">11. This towne is alſo to retaine and keepe all her owne prouiſions that are reſting, both of victuals, ma<g ref="char:EOLhyphen"/>terials, and all other common goods, liquids and not li<g ref="char:EOLhyphen"/>quids, to be dealt withall, ſold or kept vnto the profit and diſcharge of this towne, according to the diſpoſition of the foreſaid three Members; Except all Peeces of Ordnance, Armes and other amunitions, which are to remaine for the ſeruice of the towne, and not to be ſold.</p>
+            <p n="12">12. All Societies, Companies, Trades, or Corporations thereof, that for this time are in the towne, are there to remaine, and to retaine reſpectiuely their Charters, or<g ref="char:EOLhyphen"/>ders and priuiledges, and withall their goods, both li<g ref="char:EOLhyphen"/>quids and not liquids, without reſpect to what end the ſame may be bought or gotten by the ſaid Trades, Soci<g ref="char:EOLhyphen"/>eties or Companies, that they may be diſpoſed of vnto the comon profit, according to their owne will and pleaſure, by the Prouoſts, Officers, and Maſters of euery Company.</p>
+            <p n="13">13. Within the Countrie of <hi>Holland,</hi> nor in any o<g ref="char:EOLhyphen"/>ther Prouince of theſe Vnited Prouinces, no body ſhall counterfeit or vſe the Armes of this towne, nor the Armes enſignes or markes of the trades or Companies thereof, to wit, of Cuttlers, Pinne and Needle makers, and many other handicrafts. But euery one ſhall keepe and vſe his owne marke, or of his towne, where the ware ſhall be made, and all ſuch trades and handiworks. As allſo all dying and all new Faires, that haue been ob<g ref="char:EOLhyphen"/>tained and eſtabliſhed during the time of theſe troubles,
+<pb n="5" facs="tcp:173566:4"/>
+               <!-- PDF PAGE 88 -->are hereafter to ceaſe within the Mayorie of this town; vnleſſe thoſe of the ſaid Mayorie, being heard thereup<g ref="char:EOLhyphen"/>on by the Lords the generall States, they be found ſo e<g ref="char:EOLhyphen"/>quitable, that there be made ſome other new order and poſition concerning their Faires.</p>
+            <p n="14">14. The Inhabitants of the <hi>Buſſe</hi> of <hi>Boisliduc,</hi> and all thoſe of the Countrey thereabout, dwelling in places that pay contributions, are to be treated and vſed as all other good ſubiects and inhabitants of the vnited Pro<g ref="char:EOLhyphen"/>uinces, whether they dwell within townes, or without in the Countrey here and there.</p>
+            <p n="15">15. As concerning all the rents and lawfull debts, con<g ref="char:EOLhyphen"/>conſtituted, made, or taken vpon change, to be paid by the three Members of this Towne, or their Deputies as well during this Siege as before the ſame, whether there be ſome Letters diſpatched and ſealed about the ſame, or none. The Magiſtrate of this ſaid towne is to deliuer vp an eſtate of all, to be hereafter diſpoſed of with all e<g ref="char:EOLhyphen"/>quity by the ſaid Lords the generall States.</p>
+            <p n="16">16. As concerning the payment of the ſaid debts, and of other charges as may fall vpon the towne, the Courts therein are to keepe their wonted Seſsions and Siſes, and aſlo their impoſitions, and other meanes of the ſaid towne, as now are ready at this preſent, and in cuſtome, all which may be raiſed increaſed, or diminiſhed by the three Members, according to their priuiledges and cu<g ref="char:EOLhyphen"/>ſtomes; but ſo, that thereby no preiudice doe enſue vp<g ref="char:EOLhyphen"/>on ſuch meanes, the which the Common Cauſe may re<g ref="char:EOLhyphen"/>quire to be leuied, vnto the profit and good of the ſaid Common Cauſe.</p>
+            <p n="17">17. All Acts, Reſolutions, Decrees, Orders, and Pro<g ref="char:EOLhyphen"/>clamations made by the ſaid three Members, or Magi<g ref="char:EOLhyphen"/>ſtrates, for as much as they ſhall not be contrary to the State, or to the good of the Vnited Prouinces; As like<g ref="char:EOLhyphen"/>wiſe all ſentences giuen by the <hi>Eſcherins,</hi> or Iudges, vp<g ref="char:EOLhyphen"/>on <hi>rem indicatam:</hi> And moreouer, all euictions of
+<pb n="6" facs="tcp:173566:5"/>
+               <!-- PDF PAGE 89 -->goods, ſituated either within or without the Towne and duely ſolemnized, are to remaine in their force an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vigour; but ſo that the intereſſed party ſhall keepe hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> right of appeale or reformation, if ſo it doe pleaſe him</p>
+            <p n="18">18. Thoſe that now are, or haue heretofore beene o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Magiſtracie, are not to be moleſted or troubled for the acts or orders by them giuen to pay or to diſburſe any money or prouiſion of the Towne: Neither any Treaſurers. Receiuers, or Paymaſters to haue paid or disburſed the ſaid moneys or prouiſions, nor to haue made any accompt: And the ſaid accompts made vp by the ſaid Receiuers and other Deputies of this towne, ſhall not be ſubiect to be reviewed: As likewiſe all ac<g ref="char:EOLhyphen"/>compts made by the Treaſurers of the Dominions, of the States of <hi>Braband,</hi> Receiners of Licences, Contri<g ref="char:EOLhyphen"/>butions, and Fortifications, are to remaine as they were, without trouble or ſearch</p>
+            <p n="19">19. The Gouernment of the <hi>Table of the Holy Ghoſt,</hi> of the Great Hoſpitall, of the building of the Churches, of the houſes of the Orphants, of leprous, of baſtards, of mad or Bedlam, and of all other particuler foundati<g ref="char:EOLhyphen"/>ons of Hoſpitals, both of men and of women, and the election of the Pourueyors and Rulers thereof, are to be made, eſtabliſhed and conferred, in ſuch manner as hi<g ref="char:EOLhyphen"/>therto the cuſtome hath beene, according to the old priuiledges of the ſaid Towne.</p>
+            <p n="20">20 All proprieties, and maſters of Mills, and Horſe-Mills, and Milles to make Oyle, within this Towne and the liberties thereof, that haue beene broken, beaten downe and ſpoiled, either by the Ordnance, or other<g ref="char:EOLhyphen"/>wiſe, during this Siege, and by the Warres in the for<g ref="char:EOLhyphen"/>mer time, may bee againe erected and built vp vpon their old places and grounds, it being not neceſſary nor required to obtaine for the ſame any new Act or con<g ref="char:EOLhyphen"/>ſentment, or to pay any new right <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>au<gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>ely ſuch as the ſaid Mills haue been bound formerly to pay, before they
+<pb n="7" facs="tcp:173566:5"/>
+               <!-- PDF PAGE 89 -->were deſtroyed, vnleſſe they were imployed in the ſer<g ref="char:EOLhyphen"/>uice of the Countrey.</p>
+            <p n="21">21. All ſecular perſons, of what condition ſoeuer, being ſworne vnto or in ſeruice of the King of <hi>Spaine,</hi> or of this Towne, or not; ſhall haue freedome and liberty, and it ſhall bee free and permitted for euery of them to withdraw himſelfe out of this Towne with his Family and goods, preſently after the reddition of the ſame, and for the ſame end to cauſe to come Waggons, Carts, Ships, and Boats, from the Townes and places of <hi>Bra<g ref="char:EOLhyphen"/>band, Holland,</hi> or alſo neutrall parts, and neither their perſons nor goods, nor thoſe that ſhall tranſport the ſame, ſhall bee hindred, troubled, or harmed, by the Souldiers, Fiſcals, or other whatſoeuer: They ſhall alſo haue no neede to obtaine or get for the ſaid purpoſe, any other conſent, paſſeport or ſafe-conduct.</p>
+            <p n="22">22. Moreouer, the ſaid Burgers being gone out of the Towne, and alſo thoſe that will remaine therein, whether they haue beene ſworne, or in ſeruice or other<g ref="char:EOLhyphen"/>wiſe belonging to the King of <hi>Spaine,</hi> or not, and their heyres reſpectiuely, are to haue the ſpace of three yeares next enſuing, that in the meane time they may ſell, change, or otherwiſe put away, as they ſhall finde good, their goods, euery where, as well in the Towne, as in the liberties and Mayories thereof; or elſe they may cauſe the ſaid goods to be receiued and adminiſtred by ſuch as they ſhall appoint and thinke conuenient. And if they dye either within or without the ſaid Towne, during the ſaid ſpace of three yeeres, hauing made Teſtaments, or none, in that caſe their goods are to befall to their heyre as they ſhall haue inſtituted or to their neereſt kinsfolkes reſpectiuely.</p>
+            <p>And thoſe that during the ſaid three yeeres, will goe into the dominions or Townes belonging to the ſaid K<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of <hi>Spaine,</hi> about their particular affaires they ſhall haue liberty to doe the ſame foure times in one yeere;
+<pb n="8" facs="tcp:173566:6"/>
+               <!-- PDF PAGE 90 -->but ſo that they firſt giue knowledge thereof vnto the Gouernour, of whom they ſhall be bound to take Paſſe<g ref="char:EOLhyphen"/>port, the which he ſhall not deny vnto them, vnleſſe hee haue ſome important reaſons to the contrary And at the end of the ſaid three yeeres they may make their dwelling either in this Towne, or in any neutrall place that doth pay contribution, where they ſhall enioy the ſaid liberty and freedome to goe and come, and to trade in all places, and likewiſe all other Articles of this Trea<g ref="char:EOLhyphen"/>tie.</p>
+            <p n="24">24. There ſhall be ordered or made no other Gouer<g ref="char:EOLhyphen"/>nour, or Lieutenant Gouernour ouer this Towne, but one of the Houſe of <hi>Naſsawe,</hi> or ſome other Lord of the Low-Countries.</p>
+            <p n="25">25. The Garriſon of this Towne is to haue no ex<g ref="char:EOLhyphen"/>emption of impoſitions, or Subſidies, But is to beare like charges as the other inhabitants.</p>
+            <p n="26">26. There ſhall be comprehended in this Treatie, all Citizens Burgers, and inhabitants that now are abſent, with their Wiues and children, and all other perſons, both ſpirituall and temporall, that haue withdrawne themſelues.</p>
+            <p>All perſons that are ſicke or hurt, and now in the great Hoſpitall or in other houſes, both ſouldiours and others, may remaine &amp; ſtay there vntill they be recoue<g ref="char:EOLhyphen"/>red and well; and a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>terwards they may be gone or ſtay where they ſhall l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke beſt, &amp; then they ſhall be furniſhed with Wagons or Carts, for themſelues and their bag<g ref="char:EOLhyphen"/>gage, without any let or hinderance.</p>
+            <p>All which Articles haue beene concluded, conſented and agreed vpon and granted by his Excellency, and the Lords Deputies of the high &amp; mighty Lords the States Generall, vnto the Eccleſiaſticall perſons, the Magi<g ref="char:EOLhyphen"/>ſtrate, Burg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, and Inhabitants of the ſaid towne, who haue a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pted of the ſame by power and vertue of their Procurations reſpectiuely.</p>
+            <closer>
+               <dateline>In witneſſe whereof, theſe
+<pb n="9" facs="tcp:173566:6"/>
+                  <!-- PDF PAGE 90 -->preſents haue been ſigned at <hi>Vught,</hi> in the Campe be<g ref="char:EOLhyphen"/>fore the <hi>Buſſe,</hi> 
+                  <date>this 14. of <hi>Septemb.</hi> 1629. <hi>ſtilo nouo.</hi>
+                  </date>
+               </dateline>
+               <signed>Signed, 
+<list>
+                     <item>
+                        <hi>
+                           <hi>F. HENERY</hi> de Naſſau.</hi>
+                     </item>
+                     <item>
+                        <hi>F. Michael, Epiſcopus Buſcoducenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Moors, Abbas Bernenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Ioannes Hermes, Deaconus Buſcoducenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>R. van Verone.</hi>
+                     </item>
+                     <item>
+                        <hi>I. van Velde.</hi>
+                     </item>
+                     <item>
+                        <hi>R. van Grieneuen<g ref="char:punc">▪</g>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>B. Loef van Sloot.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Somers.</hi>
+                     </item>
+                     <item>
+                        <hi>Pet. Huberts<g ref="char:punc">▪</g>
+                        </hi>
+                     </item>
+                     <item>
+                        <hi>Heriald Heuvel.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <p>THe Generall States of the <g ref="char:V">Ʋ</g>nited Prouinces, hauing heard the report of their 'Deputies, after they had ſeene, read, and examined the aboue-ſet points and Articles, haue approued them vpon mature deliberation, euen as by theſe preſents the ſaid Generall States doe approue and avow the ſame, promiſing to keepe, and cauſe them to be kept, according vnto their former tenour.</p>
+            <closer>
+               <dateline>Giuen in the Campe before <hi>Bois<g ref="char:EOLhyphen"/>leduc,</hi> or the <hi>Buſſe,</hi> 
+                  <date>
+                     <hi>this</hi> 14. of <hi>Septemb.</hi> 1629, ſtilo nouo.</date>
+               </dateline>
+            </closer>
+            <argument>
+               <p>It was Signed, HENRY. And lower it was written, <hi>By order from the high and mighty Lords the States Generall.</hi> Signed, <hi>Corn. Muſh.</hi>
+               </p>
+            </argument>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173566:7"/>
+            <!-- PDF PAGE 91 -->
+            <pb facs="tcp:173566:7" rendition="simple:additions"/>
+            <!-- PDF PAGE 91 -->
+         </div>
+      </body>
+   </text>
+</TEI>
